@@ -3,7 +3,7 @@
 ## I'm a Coder, Designer & Developer!!
 
 - 🔭 Working as Freelancer!!
-- 🌱 I’m currently Proficient is MERN 🤣
+- 🌱 I’m currently Proficient is MERN
 - 👯 I’m looking learn React Native
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Looking for Innovative ideas 
