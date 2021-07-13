@@ -5,7 +5,7 @@
 - 🔭 Working as Freelancer!!
 - 🌱 I’m currently Proficient is MERN
 - 👯 I’m looking to learn flutter
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to coding
 - ⚡ Looking for Innovative ideas 
 
 
