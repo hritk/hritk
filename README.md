@@ -4,7 +4,7 @@ Hi 👋 My name is Hritik Raj
 Full stack developer
 --------------------
 
-I have been working as a freelancer since 2 years.Developer as well as management skills.
+I have been working as a freelancer since 2019.
 
 * 🌍  I'm based in Kolkata,India
 * ✉️  You can contact me at [ritikrj1@gmail.com](mailto:ritikrj1@gmail.com)
